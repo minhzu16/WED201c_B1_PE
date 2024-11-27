@@ -11,14 +11,12 @@
 
 .content_menu{
     display: flex;
-    background-color: gray;
-    
+    background-color: gray;  
 }
 
 .content_menu ul{
     display: flex  ;
     margin-left: 15%;
-
 }
 
 .content_menu ul li{
@@ -47,7 +45,7 @@
 }
 
 .Description_left{
-    width: 48%;
+    width: 54%;
     margin-left: 5%;
 }
 
@@ -57,11 +55,15 @@
 
 .Description_left p{
     text-align: justify;
-    font-size: 132%;
+    font-size: 135%;
+}
+
+.Description_left h2{
+    font-size: 180%;
 }
 
 .Description_right{
-    width: 25%;
+    width: 42%;
     margin-left: 7.5%;
 }
 
@@ -97,7 +99,7 @@
 
 .detail_1 a{
     text-decoration: none;
-    padding: 10px 25px 10px 25px;
+    padding: 10px 25px ;
     background-color: #2CC5C1 ;
     color: white;
 }
@@ -113,6 +115,7 @@
 }
 
 .Refrigeration_detail div{
+    height: 80%;
     margin-left: 2%;
     justify-items: center;
     background-color: #ECECEC;
@@ -140,11 +143,16 @@
 }
 
 .img{
-    padding: 0px 20px 0px 20px;
+    padding: 0px 30px;
 }
 
 .img img{
-    width: 150%;
-    height: 43%;
-    margin-left: -25%;
+    width: 120%;
+    height: 254px;
+    margin-left: -10%;
+    margin-bottom: -2%;
+}
+
+.img h4{
+    margin-top: -2pxS;
 }
