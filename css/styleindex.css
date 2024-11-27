@@ -138,3 +138,13 @@
     background-color: #A2A6A7;
     color: white;
 }
+
+.img{
+    padding: 0px 20px 0px 20px;
+}
+
+.img img{
+    width: 150%;
+    height: 43%;
+    margin-left: -25%;
+}
